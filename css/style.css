@@ -1,0 +1,24 @@
+body{
+  background-color: orange;
+}
+.button{
+  color: blue;
+  font-style: italic;
+  font-size: 12px
+  text-align:center;
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+h2 {
+  color: gray;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: serif;
+}
+ul {
+  line-height: 40px;
+}
